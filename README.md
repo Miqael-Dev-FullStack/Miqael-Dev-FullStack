@@ -16,7 +16,6 @@
 # 📊 GitHub Stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miqael-dev-fullstack)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Miqael-Dev-FullStack&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miqael-dev-fullstack)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
