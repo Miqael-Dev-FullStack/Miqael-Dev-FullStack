@@ -1,2 +1,2 @@
-<img src="banner.png"/>
+<img src="banner-github.png"/>
 # Hi there 👋
